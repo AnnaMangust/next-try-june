@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/AnnaMangust/next-try"
+            href="https://github.com/AnnaMangust/next-try-june"
             target="_blank"
             rel="noopener noreferrer"
           >
