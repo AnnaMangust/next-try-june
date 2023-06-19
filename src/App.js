@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href=""
+            href="https://www.facebook.com/anna.cibulskaya"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href=""
+            href="https://github.com/AnnaMangust/next-try-june"
             target="_blank"
             rel="noopener noreferrer"
           >
