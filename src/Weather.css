@@ -3,10 +3,10 @@
   border: 1px solid #944a98;
   padding: 16px;
   border-radius: 4px;
-  color: rgb(23, 11, 11);
+  color: rgb(67 11 80);
   background-color: #dcbfcf;
 }
-.Weather .search-button {
+.Weather .button {
   position: relative;
   background-color: #e0577b;
   border: 1px solid #b31640;
@@ -21,12 +21,12 @@
   padding-left: 15px;
 }
 .Weather .search-button:hover {
-  background-color: #6d0d72;
+  background-color: #945297;
   border: 1px solid #47054a;
 }
 .Weather input {
   background-color: #f5c2ed;
-  color: rgb(191, 138, 138);
+  color: rgb(223, 71, 175);
   border: none;
   outline: none;
   border-radius: 8px;
@@ -39,10 +39,11 @@
   padding-bottom: 15px;
 }
 .Weather h1 {
-  font-size: 24px;
+  font-size: 32px;
   font-weight: 100;
-  margin: 20px 0 0 0;
+  margin: 20px 0 20px 0;
   line-height: 29px;
+  color: #a75bab;
 }
 
 .Weather ul {
